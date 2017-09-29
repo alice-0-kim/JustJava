@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">저스트 자바</string>
+    <string name="toppings">토핑</string>
+    <string name="whipped_cream">휘핑 크림</string>
+    <string name="chocolate">초콜렛</string>
+    <string name="quantity">양</string>
+    <string name="order">주문</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="order_subject">저스트 자바를 방문 해 주셔서 감사합니다!</string>
+    <string name="name">이름: </string>
+    <string name="add_whipped_cream">휘핑 크림을 올릴까요? </string>
+    <string name="add_chocolate">초콜렛을 원하시나요? </string>
+    <string name="order_quantity">양: </string>
+    <string name="total">합계: $</string>
+    <string name="thank_you">감사합니다!</string>
+</resources>
